@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+}
+.app {
+  width: 500px;
+  height: 600px;
+  margin: auto;
+  background-color: aqua;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.2);
+}
+#heading {
+  text-align: center;
+  position: relative;
+  top: 45%;
+}
+.btn {
+  border: none;
+  position: absolute;
+  top: 130%;
+  left: 45%;
+  margin: auto;
+  background-color: #cd1818;
+}
